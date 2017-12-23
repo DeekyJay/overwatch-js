@@ -1,5 +1,5 @@
 {
-  "name": "@deeky/overwatch-js",
+  "name": "overwatch-js-ext",
   "version": "1.6.3",
   "description": "NodeJS Overwatch API : Retrieve informations about heroes/players from Overwatch Official Website",
   "main": "index.js",
